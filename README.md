@@ -1,2 +1,2 @@
-# Strating Angular Frameworl
-Repository for study Anuglar Framework
+# Starting Angular Framework
+Repository for study Angular Framework
